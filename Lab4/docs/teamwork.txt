@@ -1,0 +1,7 @@
+1. Rate myself: 5 5 5 5 Peiyuan Li
+     Partner:        5 5 5 5 Rhythm Syed
+2. I worked on the Mealy State Machine. I draw the state diagram and wrote the test-bench for mealy state diagram.
+3.  My partner did the moore state machine, he wrote the test bench and shared with me.
+4. We meet 3 times during this week. We always text to each other to keep track on each other.
+5. So far I am not.
+6.I did not use any test bench from piazza. 

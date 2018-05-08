@@ -1,0 +1,7 @@
+1. Rate myself: 5 5 4 5 Peiyuan Li
+     Partner:        5 4 5 5 Rhythm Syed
+2. We worked together on the state transition diagrams, and rtl diagrams. 
+3. My partner worked on the counter and fir_filter file, and I worked on magnitude and controller file. 
+4. We meet 3 times during this week. We always text to each other to keep track on each other.
+5. So far I am not.
+6.I used testbench from Piazza posted by Anonymous...(note number 174)

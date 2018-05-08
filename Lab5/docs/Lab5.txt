@@ -1,0 +1,6 @@
+1. filtered_1.bmp only shows a certain frequency of the original image. it makes sense because it will filte the high frequency values being a HPF. different coeff will be the reason.
+
+2. $fopen(filename, mode);
+$fscanf(file, file_format_specifier, data_source)
+
+3. %c, %d, %o, %b
